@@ -4,6 +4,8 @@ let goodbyeVar = 'goodbye'
 
 let bob = 'bob'
 
+let newTest = 'newTest'
+
 log.console(helloVariable)
 log.console(goodbyeVar)
-log.console(bob)
+log.console(newTest)
